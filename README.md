@@ -1,0 +1,1 @@
+This project is a simple digital clock using Python and Tkinter. A small window opens titled “Digital Clock” with a dark background. It shows the label “Digital Clock” on top and the current time in HH:MM:SS format below. The time updates every second, showing real time. It helps practice making a GUI, using labels, and updating the screen.
